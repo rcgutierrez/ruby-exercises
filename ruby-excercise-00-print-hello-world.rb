@@ -1,3 +1,5 @@
+# Print, puts, hello world, shapes lesson
+
 #print Prints things out on the same line
 print "hello world"
 

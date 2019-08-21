@@ -1,3 +1,5 @@
+# Variables lesson
+
 # Separate variable name with underscores     !!!
 character_name = "John"
 character_age = "35"
