@@ -12,7 +12,7 @@ puts "Code\nCamp"
 phrase = "Code Camp"
 puts phrase
 
-#String Methods/String Functions
+#String Methods/String Functions (can be used without parentheses) ->
 # .upcase()
 # .downcase()
 # .strip()
@@ -20,6 +20,7 @@ puts phrase
 # .include? "string"
 # [integer], [integer1, integer2]
 # index("string")
+# number_variable.to_s
 
 # .upcase() -> capitalizes all characters
 phrase = "Code Camp"
@@ -60,6 +61,10 @@ puts phrase.index("e Ca")
 puts phrase.index("e ca")
 puts phrase.index("C")
 
+# Printing number variables with strings in puts statement
+num = 42
+puts ("The answer to the universe is " + num.to_s)
+
 # Outputs ->
 
 # Code Camp
@@ -80,3 +85,4 @@ puts phrase.index("C")
 # 3
 #
 # 0
+# The answer to the universe is 42

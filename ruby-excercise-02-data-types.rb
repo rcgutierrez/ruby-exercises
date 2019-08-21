@@ -19,7 +19,7 @@ puts age
 puts gpa
 puts is_male
 puts is_late
-puts flaws
+puts (flaws.to_s + " (nil statment)")
 
 # Outputs ->
 
@@ -27,4 +27,4 @@ puts flaws
 # 3.8
 # true
 # false
-#
+#  (nil statment)
