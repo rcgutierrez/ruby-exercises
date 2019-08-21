@@ -19,4 +19,12 @@ puts age
 puts gpa
 puts is_male
 puts is_late
-puts (flaws ' (nil data type)')
+puts flaws
+
+# Outputs ->
+
+# 85
+# 3.8
+# true
+# false
+#
