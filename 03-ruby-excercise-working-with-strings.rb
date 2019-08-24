@@ -21,6 +21,8 @@ puts phrase
 # [integer], [integer1, integer2]
 # index("string")
 # number_variable.to_s
+# .to_i (like to_s) will convert input to integer
+# .to_f will convert input to floating number
 
 # .upcase() -> capitalizes all characters
 phrase = "Code Camp"
