@@ -13,3 +13,8 @@ puts states
 
 puts states["Oregon"]
 puts states[:Pennsylvania]
+
+# Outputs
+# {"New York"=>"NY", :Pennsylvania=>"PA", "Oregon"=>"OR"}
+# OR
+# PA
