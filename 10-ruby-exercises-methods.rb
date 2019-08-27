@@ -31,3 +31,12 @@ say_hi_to_user
 
 # Outputs
 # Hello
+# Hello Gately
+# You are 28
+# Hello Noname
+# You are -1
+# Enter Your Name:
+# x
+# Enter Your Age:
+# y
+# Hi, x, you are y years old.
