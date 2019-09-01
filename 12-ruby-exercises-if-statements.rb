@@ -1,4 +1,10 @@
 # If Statements
+# if
+# and
+# or
+# else
+# elsif
+# end
 
 ismale = true
 istall = false
