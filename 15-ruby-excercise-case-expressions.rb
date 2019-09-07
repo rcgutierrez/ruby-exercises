@@ -1,4 +1,8 @@
 # Case expressions
+# case
+# when 
+# else
+# end
 
 def day_elaborator(day)
   day_name = ""
