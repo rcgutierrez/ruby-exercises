@@ -14,6 +14,8 @@ for index in 0..5
   puts index
 end
 
+# You don't need to pass the |index| for the loop to run,
+# but good to pass it in     !!!!!
 6.times do |index|
   puts index
 end
