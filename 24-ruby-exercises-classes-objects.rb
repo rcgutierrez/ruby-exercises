@@ -21,7 +21,3 @@ book2 = Book.new
 book2.title = "Dune"
 book2.author = "Frank Herbert"
 book2.pages = 688
-
-book1.instance_variables.keys.each do |k|
- puts k.to_s
-end
